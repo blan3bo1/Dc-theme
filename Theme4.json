@@ -1,6 +1,6 @@
 {
-  "name": "Oled lighthouse",
-  "description": "An Oled Display With A Dark Mountain",
+  "name": "Oled Lighthouse",
+  "description": "An Oled Display With A Lighthouse",
   "authors": [
     {
       "name": "Blankboii",
@@ -12,7 +12,8 @@
     "BACKGROUND_TERTIARY": ["#000000"],
     "BACKGROUND_ACCENT": ["#08080A"],
     "SPOILER_HIDDEN_BACKGROUND": ["#1E1F22"],
-    "SPOILER_REVEALED_BACKGROUND": ["#232428"].      "HEADER_PRIMARY": ["#756CD9"],
+    "SPOILER_REVEALED_BACKGROUND": ["#232428"].    
+    "HEADER_PRIMARY": ["#756CD9"],
     "HEADER_SECONDARY": ["#6F66CC"],
     "INTERACTIVE_ACTIVE": ["#8C6EFF"],
     "INTERACTIVE_NORMAL": ["#7059B3"],
