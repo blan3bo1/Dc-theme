@@ -32,7 +32,7 @@
     "CHANNEL_ICON": ["#756CD9"],
     "CHAT_BACKGROUND": ["#121212"],
     "TEXT_DANGER": ["#A12829"],
-    "TEXT_NORMAL": ["#DFE2E6"].
+    "TEXT_NORMAL": ["#DFE2E6"]
   },
   "rawColors": {
     "PRIMARY_560": "#08080A",
